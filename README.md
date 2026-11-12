@@ -17,9 +17,9 @@ Prima aplicație permite calcularea unei expresii matematice pe baza a trei para
 
 Expresia calculată este:
 
-\[
+$$
 y = a \cdot e^x + b \cdot \ln(x)
-\]
+$$
 
 ### Funcționalități
 
@@ -41,9 +41,9 @@ Rezultatul funcției EXP este înmulțit cu parametrul `a`, iar rezultatul func�
 
 Cele două rezultate sunt apoi transmise către un operator de adunare (ADD), care calculează rezultatul final:
 
-\[
+$$
 y = a \cdot e^x + b \cdot \ln(x)
-\]
+$$
 
 Valoarea obținută este transmisă către indicatorul numeric de pe Front Panel.
 
@@ -73,9 +73,9 @@ Valoarea generată este transmisă către un operator de înmulțire (MULTIPLY),
 
 Calculul se realizează folosind formula:
 
-\[
+$$
 y = H \cdot r
-\]
+$$
 
 Unde:
 - `H` reprezintă limita superioară introdusă de utilizator.
@@ -139,9 +139,9 @@ The first application calculates a mathematical expression based on three user-d
 
 The calculated expression is:
 
-\[
+$$
 y = a \cdot e^x + b \cdot \ln(x)
-\]
+$$
 
 ### Features
 
@@ -163,9 +163,9 @@ The exponential result is multiplied by parameter `a`, while the natural logarit
 
 Both results are then connected to an addition operator (ADD), which calculates the final result:
 
-\[
+$$
 y = a \cdot e^x + b \cdot \ln(x)
-\]
+$$
 
 The calculated value is sent to a numeric indicator on the Front Panel.
 
@@ -195,9 +195,9 @@ The generated value is connected to a multiplication operator (MULTIPLY), where 
 
 The calculation is performed using the formula:
 
-\[
+$$
 y = H \cdot r
-\]
+$$
 
 Where:
 - `H` represents the upper limit specified by the user.
